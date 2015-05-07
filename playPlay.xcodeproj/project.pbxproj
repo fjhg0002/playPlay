@@ -7,13 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C8654CAE1AF7713700AED898 /* icono perfil 1cm.png in Resources */ = {isa = PBXBuildFile; fileRef = C8654CAD1AF7713700AED898 /* icono perfil 1cm.png */; };
+		C8654CB11AF776E000AED898 /* letter_open@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C8654CAF1AF776E000AED898 /* letter_open@2x.png */; };
+		C8654CB21AF776E000AED898 /* house@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C8654CB01AF776E000AED898 /* house@2x.png */; };
+		C8654CB61AF7790E00AED898 /* pencil@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C8654CB31AF7790E00AED898 /* pencil@2x.png */; };
+		C8654CB71AF7790E00AED898 /* globe@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C8654CB41AF7790E00AED898 /* globe@2x.png */; };
+		C8654CB81AF7790E00AED898 /* magnifying_glass@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C8654CB51AF7790E00AED898 /* magnifying_glass@2x.png */; };
+		C885C57B1AF8FD79007AEB68 /* boton futbol dibujo 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C885C57A1AF8FD79007AEB68 /* boton futbol dibujo 2.jpg */; };
+		C885C57E1AF9017C007AEB68 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C885C57C1AF9017C007AEB68 /* Main.storyboard */; };
 		C8955BE51AF75A5200CF110F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C8955BE41AF75A5200CF110F /* main.m */; };
 		C8955BE81AF75A5200CF110F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C8955BE71AF75A5200CF110F /* AppDelegate.m */; };
 		C8955BEB1AF75A5200CF110F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C8955BEA1AF75A5200CF110F /* ViewController.m */; };
-		C8955BEE1AF75A5200CF110F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C8955BEC1AF75A5200CF110F /* Main.storyboard */; };
 		C8955BF01AF75A5200CF110F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8955BEF1AF75A5200CF110F /* Images.xcassets */; };
 		C8955BF31AF75A5200CF110F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C8955BF11AF75A5200CF110F /* LaunchScreen.xib */; };
 		C8955BFF1AF75A5200CF110F /* playPlayTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C8955BFE1AF75A5200CF110F /* playPlayTests.m */; };
+		C8955C091AF75D8600CF110F /* Start_button_large.png in Resources */ = {isa = PBXBuildFile; fileRef = C8955C081AF75D8600CF110F /* Start_button_large.png */; };
+		C8955C0D1AF7673700CF110F /* boton futbol.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C8955C0C1AF7673700CF110F /* boton futbol.jpg */; };
+		C8955C0F1AF7676500CF110F /* boton tenis.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C8955C0E1AF7676500CF110F /* boton tenis.jpg */; };
+		C8955C131AF7692D00CF110F /* boton padel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C8955C121AF7692D00CF110F /* boton padel.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +38,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C8654CAD1AF7713700AED898 /* icono perfil 1cm.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono perfil 1cm.png"; sourceTree = "<group>"; };
+		C8654CAF1AF776E000AED898 /* letter_open@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "letter_open@2x.png"; sourceTree = "<group>"; };
+		C8654CB01AF776E000AED898 /* house@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "house@2x.png"; sourceTree = "<group>"; };
+		C8654CB31AF7790E00AED898 /* pencil@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pencil@2x.png"; sourceTree = "<group>"; };
+		C8654CB41AF7790E00AED898 /* globe@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "globe@2x.png"; sourceTree = "<group>"; };
+		C8654CB51AF7790E00AED898 /* magnifying_glass@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "magnifying_glass@2x.png"; sourceTree = "<group>"; };
+		C885C57A1AF8FD79007AEB68 /* boton futbol dibujo 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "boton futbol dibujo 2.jpg"; sourceTree = "<group>"; };
+		C885C57D1AF9017C007AEB68 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C8955BDF1AF75A5200CF110F /* playPlay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = playPlay.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8955BE31AF75A5200CF110F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C8955BE41AF75A5200CF110F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -34,12 +53,15 @@
 		C8955BE71AF75A5200CF110F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		C8955BE91AF75A5200CF110F /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		C8955BEA1AF75A5200CF110F /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		C8955BED1AF75A5200CF110F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C8955BEF1AF75A5200CF110F /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		C8955BF21AF75A5200CF110F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		C8955BF81AF75A5200CF110F /* playPlayTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = playPlayTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8955BFD1AF75A5200CF110F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C8955BFE1AF75A5200CF110F /* playPlayTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = playPlayTests.m; sourceTree = "<group>"; };
+		C8955C081AF75D8600CF110F /* Start_button_large.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Start_button_large.png; sourceTree = "<group>"; };
+		C8955C0C1AF7673700CF110F /* boton futbol.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "boton futbol.jpg"; sourceTree = "<group>"; };
+		C8955C0E1AF7676500CF110F /* boton tenis.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "boton tenis.jpg"; sourceTree = "<group>"; };
+		C8955C121AF7692D00CF110F /* boton padel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "boton padel.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,11 +103,22 @@
 		C8955BE11AF75A5200CF110F /* playPlay */ = {
 			isa = PBXGroup;
 			children = (
+				C885C57C1AF9017C007AEB68 /* Main.storyboard */,
+				C885C57A1AF8FD79007AEB68 /* boton futbol dibujo 2.jpg */,
+				C8654CB31AF7790E00AED898 /* pencil@2x.png */,
+				C8654CB41AF7790E00AED898 /* globe@2x.png */,
+				C8654CB51AF7790E00AED898 /* magnifying_glass@2x.png */,
+				C8654CAF1AF776E000AED898 /* letter_open@2x.png */,
+				C8654CB01AF776E000AED898 /* house@2x.png */,
+				C8654CAD1AF7713700AED898 /* icono perfil 1cm.png */,
+				C8955C121AF7692D00CF110F /* boton padel.jpg */,
+				C8955C0E1AF7676500CF110F /* boton tenis.jpg */,
+				C8955C0C1AF7673700CF110F /* boton futbol.jpg */,
+				C8955C081AF75D8600CF110F /* Start_button_large.png */,
 				C8955BE61AF75A5200CF110F /* AppDelegate.h */,
 				C8955BE71AF75A5200CF110F /* AppDelegate.m */,
 				C8955BE91AF75A5200CF110F /* ViewController.h */,
 				C8955BEA1AF75A5200CF110F /* ViewController.m */,
-				C8955BEC1AF75A5200CF110F /* Main.storyboard */,
 				C8955BEF1AF75A5200CF110F /* Images.xcassets */,
 				C8955BF11AF75A5200CF110F /* LaunchScreen.xib */,
 				C8955BE21AF75A5200CF110F /* Supporting Files */,
@@ -199,9 +232,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C8955BEE1AF75A5200CF110F /* Main.storyboard in Resources */,
+				C8955C091AF75D8600CF110F /* Start_button_large.png in Resources */,
+				C885C57B1AF8FD79007AEB68 /* boton futbol dibujo 2.jpg in Resources */,
+				C8654CAE1AF7713700AED898 /* icono perfil 1cm.png in Resources */,
 				C8955BF31AF75A5200CF110F /* LaunchScreen.xib in Resources */,
+				C8955C131AF7692D00CF110F /* boton padel.jpg in Resources */,
 				C8955BF01AF75A5200CF110F /* Images.xcassets in Resources */,
+				C8654CB71AF7790E00AED898 /* globe@2x.png in Resources */,
+				C885C57E1AF9017C007AEB68 /* Main.storyboard in Resources */,
+				C8654CB81AF7790E00AED898 /* magnifying_glass@2x.png in Resources */,
+				C8654CB11AF776E000AED898 /* letter_open@2x.png in Resources */,
+				C8654CB61AF7790E00AED898 /* pencil@2x.png in Resources */,
+				C8654CB21AF776E000AED898 /* house@2x.png in Resources */,
+				C8955C0F1AF7676500CF110F /* boton tenis.jpg in Resources */,
+				C8955C0D1AF7673700CF110F /* boton futbol.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -244,10 +288,10 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		C8955BEC1AF75A5200CF110F /* Main.storyboard */ = {
+		C885C57C1AF9017C007AEB68 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				C8955BED1AF75A5200CF110F /* Base */,
+				C885C57D1AF9017C007AEB68 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -416,6 +460,7 @@
 				C8955C041AF75A5200CF110F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C8955C051AF75A5200CF110F /* Build configuration list for PBXNativeTarget "playPlayTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +469,7 @@
 				C8955C071AF75A5200CF110F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
